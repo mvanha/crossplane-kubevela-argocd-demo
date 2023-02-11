@@ -21,6 +21,7 @@ spec:
 apiVersion: pkg.crossplane.io/v1
 kind: Provider
 metadata:
-  name: provider-civo
+  name: upbound-provider-azure
 spec:
-  package: crossplane/provider-civo:main
+  package: xpkg.upbound.io/crossplane-contrib/provider-azure:v0.20.0
+
