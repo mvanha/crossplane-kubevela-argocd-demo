@@ -15,7 +15,7 @@ spec:
     type: frontend
     properties:
       name: frontend
-      image: vfarcic/devops-toolkit-series
+      image: mvanha/devops-toolkit-series
     traits:
     - type: autoscaler
       properties:
