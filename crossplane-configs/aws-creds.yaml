@@ -1,15 +1,15 @@
-apiVersion: bitnami.com/v1alpha1
-kind: SealedSecret
-metadata:
-  creationTimestamp: null
-  name: aws-creds
-  namespace: crossplane-system
-spec:
-  encryptedData:
-    creds: AgA0by9wdBhid/2pGAPcebrI24yJYgm9W2VE1CpbfXdJCJ8NW5fHVejri+3TZufiaJtvjnE9q6IugqkI8xivDR9bTXYsI5zoecCwTLRGnX1lVNaBWlVP9lydekeoPiCJcQOYclZGlW56tZaC8cm4kNHjj4l3afX/6jsEllXcwhZE/GQtNngbqC/zYjeHNMSrfep8bmYZwv509WR+vl3tYesHU1HpbK7cb6+bFTUQ2ozeyN4ohCV+mnmFhIxISHooOTY/MqrafWvL+g4f1AiCL4/itg1IgX+tMOJR6Qlb9U/C6d0R/Bkfgo9mAhEY9SjbquEBUXSkEDSmlSm5RsJieRHAQh+NN3Q1TfR+cbU6dKWUvp7u6yb+gYH94Txg9fIG3UVW+992as++WRK6xMNdXxhr6Whn2eF5hdaYRO2BbkX+fp4SjkDpXkREYmVZMeqRaJHUR2qAd0m6yF2WV2SOr2VrwDOfog+2SKWx1vEFucr1h3reg1LSOv6M7OI5ohTgM7tasxpu4Y61/Y4F7H4nTeJRPL7FT3Ph6yb55MkDcx/AD6opAMGnxClZ8Km9N/RBIm+QWaweyje78Qvsaz87v0zhW/lI/iQqhYPQedDjVcUo1dGs/4f2IrqEwbH0BpyuIRrpDpHKHoJWhCa+WJwhJHlyMAmGBDTOEk90me/WW/7eo2yQEny89QCWObkvvLCqD1eQAH1FZ44pUI7pJazmyd3ecb24Rg8XLDUJZoZn6zhoCmMX/hiZgwZCCZdmkX6dmIyEa7wUd3sx4duKomoYFyLUig==
-  template:
-    metadata:
-      creationTimestamp: null
-      name: aws-creds
-      namespace: crossplane-system
+# apiVersion: bitnami.com/v1alpha1
+# kind: SealedSecret
+# metadata:
+#   creationTimestamp: null
+#   name: aws-creds
+#   namespace: crossplane-system
+# spec:
+#   encryptedData:
+#     creds: AgA0by9wdBhid/2pGAPcebrI24yJYgm9W2VE1CpbfXdJCJ8NW5fHVejri+3TZufiaJtvjnE9q6IugqkI8xivDR9bTXYsI5zoecCwTLRGnX1lVNaBWlVP9lydekeoPiCJcQOYclZGlW56tZaC8cm4kNHjj4l3afX/6jsEllXcwhZE/GQtNngbqC/zYjeHNMSrfep8bmYZwv509WR+vl3tYesHU1HpbK7cb6+bFTUQ2ozeyN4ohCV+mnmFhIxISHooOTY/MqrafWvL+g4f1AiCL4/itg1IgX+tMOJR6Qlb9U/C6d0R/Bkfgo9mAhEY9SjbquEBUXSkEDSmlSm5RsJieRHAQh+NN3Q1TfR+cbU6dKWUvp7u6yb+gYH94Txg9fIG3UVW+992as++WRK6xMNdXxhr6Whn2eF5hdaYRO2BbkX+fp4SjkDpXkREYmVZMeqRaJHUR2qAd0m6yF2WV2SOr2VrwDOfog+2SKWx1vEFucr1h3reg1LSOv6M7OI5ohTgM7tasxpu4Y61/Y4F7H4nTeJRPL7FT3Ph6yb55MkDcx/AD6opAMGnxClZ8Km9N/RBIm+QWaweyje78Qvsaz87v0zhW/lI/iQqhYPQedDjVcUo1dGs/4f2IrqEwbH0BpyuIRrpDpHKHoJWhCa+WJwhJHlyMAmGBDTOEk90me/WW/7eo2yQEny89QCWObkvvLCqD1eQAH1FZ44pUI7pJazmyd3ecb24Rg8XLDUJZoZn6zhoCmMX/hiZgwZCCZdmkX6dmIyEa7wUd3sx4duKomoYFyLUig==
+#   template:
+#     metadata:
+#       creationTimestamp: null
+#       name: aws-creds
+#       namespace: crossplane-system
 
